@@ -1,0 +1,3 @@
+[submodule "private-src"]
+	path = private-src
+	url = git@bitbucket.org:gavinheavyside/intro-algorithms.git
